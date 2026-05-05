@@ -153,17 +153,12 @@ I'm a Full Stack Software Engineer with a strong focus on **React.js** and build
 ---
 
 ## 📈 GitHub Stats
-
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeeshan4466&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan4466&layout=compact&langs_count=8&theme=react"/> 
+</div>
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeeshan-digimark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=1A5276&icon_color=1A5276&text_color=ffffff&bg_color=0d1117"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-digimark&layout=compact&theme=tokyonight&hide_border=true&title_color=1A5276&text_color=ffffff&bg_color=0d1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-digimark&theme=tokyonight&hide_border=true&ring=1A5276&fire=1A5276&currStreakLabel=1A5276&background=0d1117" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan4466&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  /> <br>
 </div>
 
 ---
